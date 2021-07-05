@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://fxylovesmath.github.io/sitemap.xml
