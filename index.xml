@@ -6,7 +6,16 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Jul 2021 21:01:57 +0800</lastBuildDate><atom:link href="http://fxylovesmath.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Jul 2021 21:23:04 +0800</lastBuildDate><atom:link href="http://fxylovesmath.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second Post</title>
+      <link>http://fxylovesmath.github.io/posts/second-post/</link>
+      <pubDate>Mon, 05 Jul 2021 21:23:04 +0800</pubDate>
+      
+      <guid>http://fxylovesmath.github.io/posts/second-post/</guid>
+      <description>This is the 2nd post.</description>
+    </item>
+    
     <item>
       <title>First_post</title>
       <link>http://fxylovesmath.github.io/posts/first_post/</link>
