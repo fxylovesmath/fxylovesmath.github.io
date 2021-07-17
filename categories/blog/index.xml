@@ -1,26 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Xinyu&#39;s Blog</title>
-    <link>http://fxylovesmath.github.io/</link>
-    <description>Recent content on Xinyu&#39;s Blog</description>
+    <title>blog on Xinyu&#39;s Blog</title>
+    <link>http://fxylovesmath.github.io/categories/blog/</link>
+    <description>Recent content in blog on Xinyu&#39;s Blog</description>
     <image>
       <url>http://fxylovesmath.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://fxylovesmath.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Jul 2021 15:28:05 +0800</lastBuildDate><atom:link href="http://fxylovesmath.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>http://fxylovesmath.github.io/about/</link>
-      <pubDate>Sat, 17 Jul 2021 16:43:51 +0800</pubDate>
-      
-      <guid>http://fxylovesmath.github.io/about/</guid>
-      <description>Hi, this is Xinyu.
-Nice to meet you!</description>
-    </item>
-    
+    <lastBuildDate>Sun, 11 Jul 2021 15:28:05 +0800</lastBuildDate><atom:link href="http://fxylovesmath.github.io/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NVIDIA Student Ambassador Notes</title>
       <link>http://fxylovesmath.github.io/posts/nvidia-student-ambassador-notes/</link>
@@ -52,16 +42,6 @@ Nice to meet you!</description>
 ↓ 先用NotePad或者其他没有拼写纠正功能的编辑器写，之后粘贴到word里面修改。
   建议找人一起备考，这样可以互相讨论题目，最好是可以互批作文（我当时是没有找到一起练写作的partner，不然应该还是会很有帮助？），同时也可以互相吐槽题目，互相分享有趣的单词等等，在备考过程中增加一点乐趣。
   备考资料 书籍   The Official Guide to the GRE revised General Test (2nd Edition) (简称OG)</description>
-    </item>
-    
-    <item>
-      <title>Hi there!</title>
-      <link>http://fxylovesmath.github.io/posts/first_post/</link>
-      <pubDate>Thu, 01 Jul 2021 21:01:57 +0800</pubDate>
-      
-      <guid>http://fxylovesmath.github.io/posts/first_post/</guid>
-      <description>Welcome to my blog.
-Have a nice day :)</description>
     </item>
     
   </channel>

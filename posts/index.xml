@@ -10,7 +10,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Jul 2021 21:01:57 +0800</lastBuildDate><atom:link href="http://fxylovesmath.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Jul 2021 15:28:05 +0800</lastBuildDate><atom:link href="http://fxylovesmath.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NVIDIA Student Ambassador Notes</title>
+      <link>http://fxylovesmath.github.io/posts/nvidia-student-ambassador-notes/</link>
+      <pubDate>Sun, 11 Jul 2021 15:28:05 +0800</pubDate>
+      
+      <guid>http://fxylovesmath.github.io/posts/nvidia-student-ambassador-notes/</guid>
+      <description>DL 101 Part I Machine Learning vs. Traditional Programming The need for humans to identify and define rules is eliminated. Instead, the machine is given a large dataset and trained to find out the rules based on the dataset. For example, to build a classifier, we let the machine take guesses and then input the correct answer, so that the machine gradually learns to guess correctly.
+ Machine learning is a good choice if the rules are nuanced or complex and are hard to discern.</description>
+    </item>
+    
     <item>
       <title>Prepare for GRE in 2 Weeks</title>
       <link>http://fxylovesmath.github.io/posts/study-tips-for-gre/</link>
@@ -28,14 +38,14 @@
 棕色的格子代表我已经完成了的，灰色的和黑色的都是没完成，空白的就是没安排计划。（最后两列后来就没有按照计划来，但是也做了一些。）实际上可以看出我的完成计划而并不是很好，真正开始刷题是13号（考前两周左右），前面都一直有很多事情，每天就背背单词，加上一点点轻量复习。我觉得计划表还是能够帮助你清楚地看到每天需要做些什么以及自己的完成情况。计划在中间可以不断调整，根据自己能够完成的情况以及复习过程中对自己各方面实力的评估来。我之前看到一个满分大佬的经验贴，就说一开始制定的计划一定不要强行执行，而是需要每天记录自己的学习情况，并据此调整计划。可以尝试每天记录自己什么时间做了什么事情，以便分析自己的学习耗时等。
   确定合理的目标分。根据自己预计要申请的项目往年录取生GRE成绩数据或者官方要求确定一个合适的目标分，并且不要盲目追求过高的分数。你的初始水平跟目标分之间的差距也会影响到你应该预留的备考时间。有趣的是，虽然理工科跟英语没什么关系，但是top院校理工科对GRE general的分数要求竟然仅次于人文社科（高于商科，教育等）。（信息来自magoosh）。此外，提前想好目标分也指导了考试当天的送分策略。
   坚持模考。 我自己对这次复习过程比较满意的一点就是按计划坚持了模考，从头到尾总共模考了5次，每次都是按照标准时间且计算分数，并且除了摸底考之外其它都是按照报名的时间10点开始考到下午两点（因此无法正常吃午饭…）。模考有助于训练考试状态和时间把控，模考多了上真考考场就会比较从容。建议保证POWERPREP两套题按真考时间完成，另外再自己适当增加不少于两次的全程模考，可以集中安排在考试前几天。但是也不建议模考太多，因为模考很费时间，特别是quant部分没必要花这么多时间做题。每次模考后要注意反思暴露出来的薄弱点，并做好生词和错题整理以及作文订正。
-  **好好利用官方写作范文。**官方范文在OG里有3套左右，POWERPREP有两套。这五套作文题我应该都是有全篇计时练习，写完之后跟范文对照，总结值得改进的点，修改自己写的作文。我觉得这样做让我对ETS的评分标准有了更好的理解，大概知道6分的作文需要做到什么水平以及自己的作文大概能得几分。（例如我觉得ISSUE的6分作文一般都极其高端，引经据典，角度深刻，以我的水平肯定写不出来，那么我就不会把目标定在6分，但是依然可以学习。）相比之下，其他作文书里面给出的范文其实并不一定能准确地反映ETS改卷老师的喜好，所以这几篇官方范文一定要好好利用。
+  好好利用官方写作范文。 官方范文在OG里有3套左右，POWERPREP有两套。这五套作文题我应该都是有全篇计时练习，写完之后跟范文对照，总结值得改进的点，修改自己写的作文。我觉得这样做让我对ETS的评分标准有了更好的理解，大概知道6分的作文需要做到什么水平以及自己的作文大概能得几分。（例如我觉得ISSUE的6分作文一般都极其高端，引经据典，角度深刻，以我的水平肯定写不出来，那么我就不会把目标定在6分，但是依然可以学习。）相比之下，其他作文书里面给出的范文其实并不一定能准确地反映ETS改卷老师的喜好，所以这几篇官方范文一定要好好利用。
 ↓ 先用NotePad或者其他没有拼写纠正功能的编辑器写，之后粘贴到word里面修改。
   建议找人一起备考，这样可以互相讨论题目，最好是可以互批作文（我当时是没有找到一起练写作的partner，不然应该还是会很有帮助？），同时也可以互相吐槽题目，互相分享有趣的单词等等，在备考过程中增加一点乐趣。
   备考资料 书籍   The Official Guide to the GRE revised General Test (2nd Edition) (简称OG)</description>
     </item>
     
     <item>
-      <title>Hello World</title>
+      <title>Hi there!</title>
       <link>http://fxylovesmath.github.io/posts/first_post/</link>
       <pubDate>Thu, 01 Jul 2021 21:01:57 +0800</pubDate>
       
